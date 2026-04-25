@@ -126,5 +126,4 @@ Qaswa,4.3,4.1,north indian,800
 
 This project demonstrates how machine learning can be used to build a real-world recommendation system with a modern UI and filtering logic.
 
-
-Ashraf Riyaz Hukkerikar
+Ayush Kiran Waghmode
